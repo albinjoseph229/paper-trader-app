@@ -1,0 +1,902 @@
+[
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "models",
+        "description": "models",
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "TransactionType",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "schemas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "schemas",
+        "description": "schemas",
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "security",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "security",
+        "description": "security",
+        "detail": "security",
+        "documentation": {}
+    },
+    {
+        "label": "google.generativeai",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "google.generativeai",
+        "description": "google.generativeai",
+        "detail": "google.generativeai",
+        "documentation": {}
+    },
+    {
+        "label": "GEMINI_API_KEY",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Float",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "TIMESTAMP",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "OAuth2PasswordRequestForm",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "OAuth2PasswordBearer",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "OAuth2PasswordBearer",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "JWTError",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "JWTError",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "crud",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "crud",
+        "description": "crud",
+        "detail": "crud",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "func",
+        "importPath": "sqlalchemy.sql",
+        "description": "sqlalchemy.sql",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.sql",
+        "documentation": {}
+    },
+    {
+        "label": "enum",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "enum",
+        "description": "enum",
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "CryptContext",
+        "importPath": "passlib.context",
+        "description": "passlib.context",
+        "isExtraImport": true,
+        "detail": "passlib.context",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "GEMINI_API_KEY",
+        "kind": 5,
+        "importPath": "backend.config",
+        "description": "backend.config",
+        "peekOfCode": "GEMINI_API_KEY = \"AIzaSyBxdvgY69WnYOuaW-84b2bGQXaxOxVJqD8\"",
+        "detail": "backend.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_by_email",
+        "kind": 2,
+        "importPath": "backend.crud",
+        "description": "backend.crud",
+        "peekOfCode": "def get_user_by_email(db: Session, email: str):\n    return db.query(models.User).filter(models.User.email == email).first()\ndef get_user_by_username(db: Session, username: str):\n    return db.query(models.User).filter(models.User.username == username).first()\ndef create_user(db: Session, user: schemas.UserCreate):\n    hashed_password = security.hash_password(user.password)\n    db_user = models.User(\n        email=user.email,\n        username=user.username,\n        hashed_password=hashed_password",
+        "detail": "backend.crud",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_by_username",
+        "kind": 2,
+        "importPath": "backend.crud",
+        "description": "backend.crud",
+        "peekOfCode": "def get_user_by_username(db: Session, username: str):\n    return db.query(models.User).filter(models.User.username == username).first()\ndef create_user(db: Session, user: schemas.UserCreate):\n    hashed_password = security.hash_password(user.password)\n    db_user = models.User(\n        email=user.email,\n        username=user.username,\n        hashed_password=hashed_password\n    )\n    db.add(db_user)",
+        "detail": "backend.crud",
+        "documentation": {}
+    },
+    {
+        "label": "create_user",
+        "kind": 2,
+        "importPath": "backend.crud",
+        "description": "backend.crud",
+        "peekOfCode": "def create_user(db: Session, user: schemas.UserCreate):\n    hashed_password = security.hash_password(user.password)\n    db_user = models.User(\n        email=user.email,\n        username=user.username,\n        hashed_password=hashed_password\n    )\n    db.add(db_user)\n    db.commit()\n    db.refresh(db_user)",
+        "detail": "backend.crud",
+        "documentation": {}
+    },
+    {
+        "label": "execute_buy_transaction",
+        "kind": 2,
+        "importPath": "backend.crud",
+        "description": "backend.crud",
+        "peekOfCode": "def execute_buy_transaction(db: Session, user: models.User, trade_details: schemas.TradeRequest):\n    # In a real app, you would fetch this from a stock API (e.g., Finnhub)\n    # For now, we'll use a mock price.\n    current_price = 950.00\n    total_cost = current_price * trade_details.quantity\n    # 1. Check if user has enough budget\n    if user.budget < total_cost:\n        return None # Indicates failure due to insufficient funds\n    # 2. Update user's budget\n    user.budget -= total_cost",
+        "detail": "backend.crud",
+        "documentation": {}
+    },
+    {
+        "label": "execute_sell_transaction",
+        "kind": 2,
+        "importPath": "backend.crud",
+        "description": "backend.crud",
+        "peekOfCode": "def execute_sell_transaction(db: Session, user: models.User, trade_details: schemas.TradeRequest):\n    # In a real app, you would fetch this from a stock API\n    # For now, we'll use the same mock price for consistency.\n    current_price = 950.00\n    # 1. Check if user actually owns this stock\n    holding = db.query(models.Holding).filter(\n        models.Holding.user_id == user.id,\n        models.Holding.stock_ticker == trade_details.ticker.upper()\n    ).first()\n    if not holding:",
+        "detail": "backend.crud",
+        "documentation": {}
+    },
+    {
+        "label": "get_dashboard_data",
+        "kind": 2,
+        "importPath": "backend.crud",
+        "description": "backend.crud",
+        "peekOfCode": "def get_dashboard_data(db: Session, user: models.User):\n    # For now, we just return the user object, which already contains\n    # the holdings and transactions thanks to the relationships we set up.\n    # In a real app, we would also fetch live prices here and calculate\n    # the total portfolio value.\n    return user\ngenai.configure(api_key=GEMINI_API_KEY)\nmodel = genai.GenerativeModel('gemini-2.5-flash')\ndef get_ai_portfolio_analysis(user: models.User):\n    # 1. Format the user's holdings into a simple string",
+        "detail": "backend.crud",
+        "documentation": {}
+    },
+    {
+        "label": "get_ai_portfolio_analysis",
+        "kind": 2,
+        "importPath": "backend.crud",
+        "description": "backend.crud",
+        "peekOfCode": "def get_ai_portfolio_analysis(user: models.User):\n    # 1. Format the user's holdings into a simple string\n    if not user.holdings:\n        return \"No holdings to analyze. Start by buying some stocks.\"\n    holdings_str = \"\\n\".join(\n        [f\"- {h.stock_ticker}: {h.quantity} shares @ avg. ₹{h.average_purchase_price:.2f}\" for h in user.holdings]\n    )\n    # 2. Create a detailed prompt for the AI\n    prompt = f\"\"\"\n    Analyze the following stock portfolio for the Indian market. The user's budget is ₹{user.budget:.2f}.",
+        "detail": "backend.crud",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "backend.crud",
+        "description": "backend.crud",
+        "peekOfCode": "model = genai.GenerativeModel('gemini-2.5-flash')\ndef get_ai_portfolio_analysis(user: models.User):\n    # 1. Format the user's holdings into a simple string\n    if not user.holdings:\n        return \"No holdings to analyze. Start by buying some stocks.\"\n    holdings_str = \"\\n\".join(\n        [f\"- {h.stock_ticker}: {h.quantity} shares @ avg. ₹{h.average_purchase_price:.2f}\" for h in user.holdings]\n    )\n    # 2. Create a detailed prompt for the AI\n    prompt = f\"\"\"",
+        "detail": "backend.crud",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "kind": 2,
+        "importPath": "backend.database",
+        "description": "backend.database",
+        "peekOfCode": "def get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "backend.database",
+        "documentation": {}
+    },
+    {
+        "label": "SQLALCHEMY_DATABASE_URL",
+        "kind": 5,
+        "importPath": "backend.database",
+        "description": "backend.database",
+        "peekOfCode": "SQLALCHEMY_DATABASE_URL = \"mysql+mysqlconnector://root@localhost/paper_trader\"\n# Create the SQLAlchemy engine\nengine = create_engine(SQLALCHEMY_DATABASE_URL)\n# Create a SessionLocal class. Each instance of this class will be a database session.\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\n# Create a Base class. Our ORM models will inherit from this class.\nBase = declarative_base()\n# Dependency to get a DB session\ndef get_db():\n    db = SessionLocal()",
+        "detail": "backend.database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "backend.database",
+        "description": "backend.database",
+        "peekOfCode": "engine = create_engine(SQLALCHEMY_DATABASE_URL)\n# Create a SessionLocal class. Each instance of this class will be a database session.\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\n# Create a Base class. Our ORM models will inherit from this class.\nBase = declarative_base()\n# Dependency to get a DB session\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db",
+        "detail": "backend.database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "kind": 5,
+        "importPath": "backend.database",
+        "description": "backend.database",
+        "peekOfCode": "SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\n# Create a Base class. Our ORM models will inherit from this class.\nBase = declarative_base()\n# Dependency to get a DB session\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "backend.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "backend.database",
+        "description": "backend.database",
+        "peekOfCode": "Base = declarative_base()\n# Dependency to get a DB session\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "backend.database",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_active_user",
+        "kind": 2,
+        "importPath": "backend.main",
+        "description": "backend.main",
+        "peekOfCode": "def get_current_active_user(token: str = Depends(oauth2_scheme), db: Session = Depends(get_db)):\n    credentials_exception = HTTPException(\n        status_code=status.HTTP_401_UNAUTHORIZED,\n        detail=\"Could not validate credentials\",\n        headers={\"WWW-Authenticate\": \"Bearer\"},\n    )\n    try:\n        payload = jwt.decode(token, security.SECRET_KEY, algorithms=[security.ALGORITHM])\n        username: str = payload.get(\"sub\")\n        if username is None:",
+        "detail": "backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "read_root",
+        "kind": 2,
+        "importPath": "backend.main",
+        "description": "backend.main",
+        "peekOfCode": "def read_root():\n    return {\"message\": \"Welcome to the Paper Trading API\"}\n@app.post(\"/register/\", response_model=schemas.User)\ndef register_user(user: schemas.UserCreate, db: Session = Depends(get_db)):\n    db_user_email = crud.get_user_by_email(db, email=user.email)\n    if db_user_email:\n        raise HTTPException(status_code=400, detail=\"Email already registered\")\n    db_user_username = crud.get_user_by_username(db, username=user.username)\n    if db_user_username:\n        raise HTTPException(status_code=400, detail=\"Username already taken\")",
+        "detail": "backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "register_user",
+        "kind": 2,
+        "importPath": "backend.main",
+        "description": "backend.main",
+        "peekOfCode": "def register_user(user: schemas.UserCreate, db: Session = Depends(get_db)):\n    db_user_email = crud.get_user_by_email(db, email=user.email)\n    if db_user_email:\n        raise HTTPException(status_code=400, detail=\"Email already registered\")\n    db_user_username = crud.get_user_by_username(db, username=user.username)\n    if db_user_username:\n        raise HTTPException(status_code=400, detail=\"Username already taken\")\n    return crud.create_user(db=db, user=user)\n@app.post(\"/login\", response_model=schemas.Token)\ndef login_for_access_token(form_data: OAuth2PasswordRequestForm = Depends(), db: Session = Depends(get_db)):",
+        "detail": "backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "login_for_access_token",
+        "kind": 2,
+        "importPath": "backend.main",
+        "description": "backend.main",
+        "peekOfCode": "def login_for_access_token(form_data: OAuth2PasswordRequestForm = Depends(), db: Session = Depends(get_db)):\n    user = crud.get_user_by_username(db, username=form_data.username)\n    if not user or not security.verify_password(form_data.password, user.hashed_password):\n        raise HTTPException(\n            status_code=status.HTTP_401_UNAUTHORIZED,\n            detail=\"Incorrect username or password\",\n            headers={\"WWW-Authenticate\": \"Bearer\"},\n        )\n    access_token_expires = timedelta(minutes=security.ACCESS_TOKEN_EXPIRE_MINUTES)\n    access_token = security.create_access_token(",
+        "detail": "backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "read_users_me",
+        "kind": 2,
+        "importPath": "backend.main",
+        "description": "backend.main",
+        "peekOfCode": "def read_users_me(current_user: models.User = Depends(get_current_active_user)):\n    return current_user\n@app.post(\"/trade/buy/\", response_model=schemas.User)\ndef buy_stock(\n    trade_request: schemas.TradeRequest, \n    current_user: models.User = Depends(get_current_active_user), \n    db: Session = Depends(get_db)\n):\n    updated_user = crud.execute_buy_transaction(db=db, user=current_user, trade_details=trade_request)\n    if updated_user is None:",
+        "detail": "backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "buy_stock",
+        "kind": 2,
+        "importPath": "backend.main",
+        "description": "backend.main",
+        "peekOfCode": "def buy_stock(\n    trade_request: schemas.TradeRequest, \n    current_user: models.User = Depends(get_current_active_user), \n    db: Session = Depends(get_db)\n):\n    updated_user = crud.execute_buy_transaction(db=db, user=current_user, trade_details=trade_request)\n    if updated_user is None:\n        raise HTTPException(status_code=400, detail=\"Insufficient funds\")\n    return updated_user\n@app.post(\"/trade/sell/\", response_model=schemas.User)",
+        "detail": "backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "sell_stock",
+        "kind": 2,
+        "importPath": "backend.main",
+        "description": "backend.main",
+        "peekOfCode": "def sell_stock(\n    trade_request: schemas.TradeRequest,\n    current_user: models.User = Depends(get_current_active_user),\n    db: Session = Depends(get_db)\n):\n    result = crud.execute_sell_transaction(db=db, user=current_user, trade_details=trade_request)\n    if \"error\" in result:\n        raise HTTPException(status_code=400, detail=result[\"error\"])\n    return result[\"user\"]\n@app.get(\"/dashboard/\", response_model=schemas.User)",
+        "detail": "backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_dashboard",
+        "kind": 2,
+        "importPath": "backend.main",
+        "description": "backend.main",
+        "peekOfCode": "def get_user_dashboard(\n    current_user: models.User = Depends(get_current_active_user),\n    db: Session = Depends(get_db)\n):\n    return crud.get_dashboard_data(db=db, user=current_user)\n@app.get(\"/portfolio/analysis/\", response_model=dict)\ndef get_analysis(\n    current_user: models.User = Depends(get_current_active_user)\n):\n    analysis_text = crud.get_ai_portfolio_analysis(user=current_user)",
+        "detail": "backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "get_analysis",
+        "kind": 2,
+        "importPath": "backend.main",
+        "description": "backend.main",
+        "peekOfCode": "def get_analysis(\n    current_user: models.User = Depends(get_current_active_user)\n):\n    analysis_text = crud.get_ai_portfolio_analysis(user=current_user)\n    return {\"analysis\": analysis_text}",
+        "detail": "backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "backend.main",
+        "description": "backend.main",
+        "peekOfCode": "app = FastAPI()\n# --- CORS MIDDLEWARE CONFIGURATION ---\norigins = [\n    \"http://localhost:5173\",  # The address of your React frontend\n]\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=origins,\n    allow_credentials=True,\n    allow_methods=[\"*\"],",
+        "detail": "backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "origins",
+        "kind": 5,
+        "importPath": "backend.main",
+        "description": "backend.main",
+        "peekOfCode": "origins = [\n    \"http://localhost:5173\",  # The address of your React frontend\n]\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=origins,\n    allow_credentials=True,\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],\n)",
+        "detail": "backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "oauth2_scheme",
+        "kind": 5,
+        "importPath": "backend.main",
+        "description": "backend.main",
+        "peekOfCode": "oauth2_scheme = OAuth2PasswordBearer(tokenUrl=\"login\")\ndef get_current_active_user(token: str = Depends(oauth2_scheme), db: Session = Depends(get_db)):\n    credentials_exception = HTTPException(\n        status_code=status.HTTP_401_UNAUTHORIZED,\n        detail=\"Could not validate credentials\",\n        headers={\"WWW-Authenticate\": \"Bearer\"},\n    )\n    try:\n        payload = jwt.decode(token, security.SECRET_KEY, algorithms=[security.ALGORITHM])\n        username: str = payload.get(\"sub\")",
+        "detail": "backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "TransactionType",
+        "kind": 6,
+        "importPath": "backend.models",
+        "description": "backend.models",
+        "peekOfCode": "class TransactionType(enum.Enum):\n    BUY = \"BUY\"\n    SELL = \"SELL\"\nclass User(Base):\n    __tablename__ = \"users\"\n    id = Column(Integer, primary_key=True, index=True)\n    username = Column(String(255), unique=True, index=True, nullable=False)\n    email = Column(String(255), unique=True, index=True, nullable=False)\n    hashed_password = Column(String(255), nullable=False)\n    budget = Column(Float, default=100000.00)",
+        "detail": "backend.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "backend.models",
+        "description": "backend.models",
+        "peekOfCode": "class User(Base):\n    __tablename__ = \"users\"\n    id = Column(Integer, primary_key=True, index=True)\n    username = Column(String(255), unique=True, index=True, nullable=False)\n    email = Column(String(255), unique=True, index=True, nullable=False)\n    hashed_password = Column(String(255), nullable=False)\n    budget = Column(Float, default=100000.00)\n    created_at = Column(TIMESTAMP, server_default=func.now())\n    transactions = relationship(\"Transaction\", back_populates=\"owner\")\n    holdings = relationship(\"Holding\", back_populates=\"owner\")",
+        "detail": "backend.models",
+        "documentation": {}
+    },
+    {
+        "label": "Transaction",
+        "kind": 6,
+        "importPath": "backend.models",
+        "description": "backend.models",
+        "peekOfCode": "class Transaction(Base):\n    __tablename__ = \"transactions\"\n    id = Column(Integer, primary_key=True, index=True)\n    user_id = Column(Integer, ForeignKey(\"users.id\"))\n    stock_ticker = Column(String(20), nullable=False) # <--- CHANGE THIS LINE\n    transaction_type = Column(Enum(TransactionType), nullable=False)\n    quantity = Column(Integer, nullable=False)\n    price_per_share = Column(Float, nullable=False)\n    timestamp = Column(TIMESTAMP, server_default=func.now())\n    owner = relationship(\"User\", back_populates=\"transactions\")",
+        "detail": "backend.models",
+        "documentation": {}
+    },
+    {
+        "label": "Holding",
+        "kind": 6,
+        "importPath": "backend.models",
+        "description": "backend.models",
+        "peekOfCode": "class Holding(Base):\n    __tablename__ = \"holdings\"\n    id = Column(Integer, primary_key=True, index=True)\n    user_id = Column(Integer, ForeignKey(\"users.id\"))\n    stock_ticker = Column(String(20), nullable=False) # <--- AND CHANGE THIS LINE\n    quantity = Column(Integer, nullable=False)\n    average_purchase_price = Column(Float, nullable=False)\n    owner = relationship(\"User\", back_populates=\"holdings\")",
+        "detail": "backend.models",
+        "documentation": {}
+    },
+    {
+        "label": "HoldingBase",
+        "kind": 6,
+        "importPath": "backend.schemas",
+        "description": "backend.schemas",
+        "peekOfCode": "class HoldingBase(BaseModel):\n    stock_ticker: str\n    quantity: int\n    average_purchase_price: float\nclass Holding(HoldingBase):\n    id: int\n    user_id: int\n    class Config:\n        orm_mode = True\n# --- Transaction Schemas ---",
+        "detail": "backend.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "Holding",
+        "kind": 6,
+        "importPath": "backend.schemas",
+        "description": "backend.schemas",
+        "peekOfCode": "class Holding(HoldingBase):\n    id: int\n    user_id: int\n    class Config:\n        orm_mode = True\n# --- Transaction Schemas ---\nclass TransactionBase(BaseModel):\n    stock_ticker: str\n    transaction_type: TransactionType\n    quantity: int",
+        "detail": "backend.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "TransactionBase",
+        "kind": 6,
+        "importPath": "backend.schemas",
+        "description": "backend.schemas",
+        "peekOfCode": "class TransactionBase(BaseModel):\n    stock_ticker: str\n    transaction_type: TransactionType\n    quantity: int\n    price_per_share: float\nclass Transaction(TransactionBase):\n    id: int\n    timestamp: datetime\n    class Config:\n        orm_mode = True",
+        "detail": "backend.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "Transaction",
+        "kind": 6,
+        "importPath": "backend.schemas",
+        "description": "backend.schemas",
+        "peekOfCode": "class Transaction(TransactionBase):\n    id: int\n    timestamp: datetime\n    class Config:\n        orm_mode = True\n# --- User Schemas ---\nclass UserBase(BaseModel):\n    username: str\n    email: str\nclass UserCreate(UserBase):",
+        "detail": "backend.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserBase",
+        "kind": 6,
+        "importPath": "backend.schemas",
+        "description": "backend.schemas",
+        "peekOfCode": "class UserBase(BaseModel):\n    username: str\n    email: str\nclass UserCreate(UserBase):\n    password: str\nclass User(UserBase):\n    id: int\n    budget: float\n    holdings: List[Holding] = []\n    transactions: List[Transaction] = []",
+        "detail": "backend.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreate",
+        "kind": 6,
+        "importPath": "backend.schemas",
+        "description": "backend.schemas",
+        "peekOfCode": "class UserCreate(UserBase):\n    password: str\nclass User(UserBase):\n    id: int\n    budget: float\n    holdings: List[Holding] = []\n    transactions: List[Transaction] = []\n    class Config:\n        orm_mode = True\n# --- Token Schemas for Authentication ---",
+        "detail": "backend.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "backend.schemas",
+        "description": "backend.schemas",
+        "peekOfCode": "class User(UserBase):\n    id: int\n    budget: float\n    holdings: List[Holding] = []\n    transactions: List[Transaction] = []\n    class Config:\n        orm_mode = True\n# --- Token Schemas for Authentication ---\nclass Token(BaseModel):\n    access_token: str",
+        "detail": "backend.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "Token",
+        "kind": 6,
+        "importPath": "backend.schemas",
+        "description": "backend.schemas",
+        "peekOfCode": "class Token(BaseModel):\n    access_token: str\n    token_type: str\nclass TokenData(BaseModel):\n    username: Optional[str] = None\n# --- Trade Schemas for API requests ---\nclass TradeRequest(BaseModel):\n    ticker: str\n    quantity: int",
+        "detail": "backend.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "TokenData",
+        "kind": 6,
+        "importPath": "backend.schemas",
+        "description": "backend.schemas",
+        "peekOfCode": "class TokenData(BaseModel):\n    username: Optional[str] = None\n# --- Trade Schemas for API requests ---\nclass TradeRequest(BaseModel):\n    ticker: str\n    quantity: int",
+        "detail": "backend.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "TradeRequest",
+        "kind": 6,
+        "importPath": "backend.schemas",
+        "description": "backend.schemas",
+        "peekOfCode": "class TradeRequest(BaseModel):\n    ticker: str\n    quantity: int",
+        "detail": "backend.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "kind": 2,
+        "importPath": "backend.security",
+        "description": "backend.security",
+        "peekOfCode": "def create_access_token(data: dict, expires_delta: Optional[timedelta] = None):\n    to_encode = data.copy()\n    if expires_delta:\n        expire = datetime.now(timezone.utc) + expires_delta\n    else:\n        expire = datetime.now(timezone.utc) + timedelta(minutes=15)\n    to_encode.update({\"exp\": expire})\n    encoded_jwt = jwt.encode(to_encode, SECRET_KEY, algorithm=ALGORITHM)\n    return encoded_jwt\n# --- Keep the existing functions below ---",
+        "detail": "backend.security",
+        "documentation": {}
+    },
+    {
+        "label": "hash_password",
+        "kind": 2,
+        "importPath": "backend.security",
+        "description": "backend.security",
+        "peekOfCode": "def hash_password(password: str):\n    return pwd_context.hash(password)\ndef verify_password(plain_password, hashed_password):\n    return pwd_context.verify(plain_password, hashed_password)\ndef get_current_user(token: str = Depends(oauth2_scheme), db: Session = Depends(\"get_db_placeholder\")):\n    credentials_exception = HTTPException(\n        status_code=status.HTTP_401_UNAUTHORIZED,\n        detail=\"Could not validate credentials\",\n        headers={\"WWW-Authenticate\": \"Bearer\"},\n    )",
+        "detail": "backend.security",
+        "documentation": {}
+    },
+    {
+        "label": "verify_password",
+        "kind": 2,
+        "importPath": "backend.security",
+        "description": "backend.security",
+        "peekOfCode": "def verify_password(plain_password, hashed_password):\n    return pwd_context.verify(plain_password, hashed_password)\ndef get_current_user(token: str = Depends(oauth2_scheme), db: Session = Depends(\"get_db_placeholder\")):\n    credentials_exception = HTTPException(\n        status_code=status.HTTP_401_UNAUTHORIZED,\n        detail=\"Could not validate credentials\",\n        headers={\"WWW-Authenticate\": \"Bearer\"},\n    )\n    try:\n        payload = jwt.decode(token, SECRET_KEY, algorithms=[ALGORITHM])",
+        "detail": "backend.security",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "kind": 2,
+        "importPath": "backend.security",
+        "description": "backend.security",
+        "peekOfCode": "def get_current_user(token: str = Depends(oauth2_scheme), db: Session = Depends(\"get_db_placeholder\")):\n    credentials_exception = HTTPException(\n        status_code=status.HTTP_401_UNAUTHORIZED,\n        detail=\"Could not validate credentials\",\n        headers={\"WWW-Authenticate\": \"Bearer\"},\n    )\n    try:\n        payload = jwt.decode(token, SECRET_KEY, algorithms=[ALGORITHM])\n        username: str = payload.get(\"sub\")\n        if username is None:",
+        "detail": "backend.security",
+        "documentation": {}
+    },
+    {
+        "label": "oauth2_scheme",
+        "kind": 5,
+        "importPath": "backend.security",
+        "description": "backend.security",
+        "peekOfCode": "oauth2_scheme = OAuth2PasswordBearer(tokenUrl=\"login\")\n# This should be a secret key stored securely, e.g., in an environment variable\nSECRET_KEY = \"your-super-secret-key-that-no-one-should-know\"\nALGORITHM = \"HS256\"\nACCESS_TOKEN_EXPIRE_MINUTES = 30\ndef create_access_token(data: dict, expires_delta: Optional[timedelta] = None):\n    to_encode = data.copy()\n    if expires_delta:\n        expire = datetime.now(timezone.utc) + expires_delta\n    else:",
+        "detail": "backend.security",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "backend.security",
+        "description": "backend.security",
+        "peekOfCode": "SECRET_KEY = \"your-super-secret-key-that-no-one-should-know\"\nALGORITHM = \"HS256\"\nACCESS_TOKEN_EXPIRE_MINUTES = 30\ndef create_access_token(data: dict, expires_delta: Optional[timedelta] = None):\n    to_encode = data.copy()\n    if expires_delta:\n        expire = datetime.now(timezone.utc) + expires_delta\n    else:\n        expire = datetime.now(timezone.utc) + timedelta(minutes=15)\n    to_encode.update({\"exp\": expire})",
+        "detail": "backend.security",
+        "documentation": {}
+    },
+    {
+        "label": "ALGORITHM",
+        "kind": 5,
+        "importPath": "backend.security",
+        "description": "backend.security",
+        "peekOfCode": "ALGORITHM = \"HS256\"\nACCESS_TOKEN_EXPIRE_MINUTES = 30\ndef create_access_token(data: dict, expires_delta: Optional[timedelta] = None):\n    to_encode = data.copy()\n    if expires_delta:\n        expire = datetime.now(timezone.utc) + expires_delta\n    else:\n        expire = datetime.now(timezone.utc) + timedelta(minutes=15)\n    to_encode.update({\"exp\": expire})\n    encoded_jwt = jwt.encode(to_encode, SECRET_KEY, algorithm=ALGORITHM)",
+        "detail": "backend.security",
+        "documentation": {}
+    },
+    {
+        "label": "ACCESS_TOKEN_EXPIRE_MINUTES",
+        "kind": 5,
+        "importPath": "backend.security",
+        "description": "backend.security",
+        "peekOfCode": "ACCESS_TOKEN_EXPIRE_MINUTES = 30\ndef create_access_token(data: dict, expires_delta: Optional[timedelta] = None):\n    to_encode = data.copy()\n    if expires_delta:\n        expire = datetime.now(timezone.utc) + expires_delta\n    else:\n        expire = datetime.now(timezone.utc) + timedelta(minutes=15)\n    to_encode.update({\"exp\": expire})\n    encoded_jwt = jwt.encode(to_encode, SECRET_KEY, algorithm=ALGORITHM)\n    return encoded_jwt",
+        "detail": "backend.security",
+        "documentation": {}
+    },
+    {
+        "label": "pwd_context",
+        "kind": 5,
+        "importPath": "backend.security",
+        "description": "backend.security",
+        "peekOfCode": "pwd_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\ndef hash_password(password: str):\n    return pwd_context.hash(password)\ndef verify_password(plain_password, hashed_password):\n    return pwd_context.verify(plain_password, hashed_password)\ndef get_current_user(token: str = Depends(oauth2_scheme), db: Session = Depends(\"get_db_placeholder\")):\n    credentials_exception = HTTPException(\n        status_code=status.HTTP_401_UNAUTHORIZED,\n        detail=\"Could not validate credentials\",\n        headers={\"WWW-Authenticate\": \"Bearer\"},",
+        "detail": "backend.security",
+        "documentation": {}
+    },
+    {
+        "label": "_Known",
+        "kind": 6,
+        "importPath": "frontend.node_modules.flatted.python.flatted",
+        "description": "frontend.node_modules.flatted.python.flatted",
+        "peekOfCode": "class _Known:\n    def __init__(self):\n        self.key = []\n        self.value = []\nclass _String:\n    def __init__(self, value):\n        self.value = value\ndef _array_keys(value):\n    keys = []\n    i = 0",
+        "detail": "frontend.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "_String",
+        "kind": 6,
+        "importPath": "frontend.node_modules.flatted.python.flatted",
+        "description": "frontend.node_modules.flatted.python.flatted",
+        "peekOfCode": "class _String:\n    def __init__(self, value):\n        self.value = value\ndef _array_keys(value):\n    keys = []\n    i = 0\n    for _ in value:\n        keys.append(i)\n        i += 1\n    return keys",
+        "detail": "frontend.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "parse",
+        "kind": 2,
+        "importPath": "frontend.node_modules.flatted.python.flatted",
+        "description": "frontend.node_modules.flatted.python.flatted",
+        "peekOfCode": "def parse(value, *args, **kwargs):\n    json = _json.loads(value, *args, **kwargs)\n    wrapped = []\n    for value in json:\n        wrapped.append(_wrap(value))\n    input = []\n    for value in wrapped:\n        if isinstance(value, _String):\n            input.append(value.value)\n        else:",
+        "detail": "frontend.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "stringify",
+        "kind": 2,
+        "importPath": "frontend.node_modules.flatted.python.flatted",
+        "description": "frontend.node_modules.flatted.python.flatted",
+        "peekOfCode": "def stringify(value, *args, **kwargs):\n    known = _Known()\n    input = []\n    output = []\n    i = int(_index(known, input, value))\n    while i < len(input):\n        output.append(_transform(known, input, input[i]))\n        i += 1\n    return _json.dumps(output, *args, **kwargs)",
+        "detail": "frontend.node_modules.flatted.python.flatted",
+        "documentation": {}
+    }
+]
