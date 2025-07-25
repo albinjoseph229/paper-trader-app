@@ -6,7 +6,18 @@ import schemas
 import security
 
 import google.generativeai as genai
-from config import GEMINI_API_KEY
+import os # Import the os module
+from dotenv import load_dotenv # Import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
+
+# Get the API key from environment variables
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+
+# Ensure the API key is loaded
+if not GEMINI_API_KEY:
+    raise ValueError("GEMINI_API_KEY not found in environment variables. Make sure it's set in your .env file.")
 
 def get_user_by_email(db: Session, email: str):
     return db.query(models.User).filter(models.User.email == email).first()
